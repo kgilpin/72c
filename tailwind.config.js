@@ -17,7 +17,7 @@ module.exports = {
         classicBackground: '#f5f5f5',
       },
       fontFamily: {
-        classic: ['Bebas Neue', 'sans-serif'],
+        classic: ['Montserrat', 'sans-serif'],
       },
     },
   },
